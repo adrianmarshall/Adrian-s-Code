@@ -1,0 +1,1 @@
+This is all of the coding projects and snippets I have done so far.
